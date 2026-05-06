@@ -1,0 +1,9 @@
+<div class="container mt-5">
+    <h3>Results for: {{ data.query }}</h3>
+    <p>Total Emails Found: <b>{{ data.total_emails_found }}</b></p>
+    <div class="card p-3">
+        {% for email in data.emails %}
+            <div>{{ email }}</div>
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>FindMyClient.org</title>
+        <link href="https://fonts.googleapis.com/css2?family=Bitcount:wght@200&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    </head>
+    <body>
+        <!-- NAVIGATION -->
+        <div class="top-bar">
+            <a href="https://deepwiki.com/Rottie420/findmyclient" target="_blank">Docs</a>
+            <a href="https://github.com/Rottie420/findmyclient" target="_blank">Github</a>
+        </div>
+        <!-- HOME -->
+        <div class="center" id="home">
+            <div class="logo">FindMyClient.org</div>
+            <div class="search-box">
+                <!-- HOME INPUT -->
+                <input id="homeQuery" placeholder="Search for Chiang Mai, Thailand Cafe...">
+                <button onclick="sendMessage()" aria-label="Search">
+                    <svg><use href="/static/svg/search.svg"></use></svg>
+                </button>
+            </div>
+            <span class="subheader">Find emails of businesses in any location and industry.</span>
+        </div>
+        <!-- CHAT -->
+        <div class="chat-container" id="chat"></div>
+        <!-- SINGLE GLOBAL INPUT -->
+        <div class="chat-input" id="chatInput">
+            <div class="chat-box">
+                <!-- CHAT INPUT -->
+                <input id="chatQuery" placeholder="Search for Chiang Mai, Thailand Cafe...">
+                <button onclick="sendMessage()" aria-label="Search">
+                    <svg><use href="/static/svg/search.svg"></use></svg>
+                </button>
+            </div>
+        </div>
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-bottom">
+            <div class="footer-links">
+                <a href="https://findmyclient.org" target="_blank">findmyclient.org</a>
+            </div>
+
+            <div class="footer-links">
+                <a>v0.00</a>
+            </div>
+        </div>
+    </footer>
+    <script src="{{ url_for('static', filename='js/async.js') }}"></script>
+    </body>
+</html>
