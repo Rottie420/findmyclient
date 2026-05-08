@@ -8,6 +8,14 @@
     <a href="#"><img src="https://img.shields.io/badge/Google Gemini-LLM-yellow" alt="Google Gemimi"></a>
     <a href="#"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </div>
+<div align="center">
+
+### 🏷️ Topics
+`lead-generation` · `email-scraper` · `web-scraping` · `google-places-api` · `gemini-ai` · `python` · `flask` · `business-intelligence` · `cold-outreach` · `data-extraction`
+</div>
+<p align="center">
+  <b>AI-powered lead generation tool that scrapes real-time business websites to extract public contact emails using Google Places + Gemini AI.</b>
+</p>
 
 <br>
 
