@@ -14,13 +14,13 @@
 `lead-generation` · `email-scraper` · `web-scraping` · `google-places-api` · `gemini-ai` · `python` · `flask` · `business-intelligence` · `cold-outreach` · `data-extraction`
 </div>
 <p align="center">
-  <b>AI-powered lead generation tool that scrapes real-time business websites to extract public contact emails using Google Places + Gemini AI.</b>
+  <b>Lead generation system for discovering public business contact emails using Google Places data and AI-assisted extraction.</b>
 </p>
 
 <br>
 
 
-## 🌐 What is FindMyClient.org?
+## 🌐 What is FindMyClient.og?
 
 📖 For full documentation powered by <a href="https://deepwiki.com/Rottie420/findmyclient" target="_blank">DeepWiki</a><br><br>
 **Most tools are expensive and rely on outdated databases.**
@@ -34,10 +34,13 @@ This tool:
 
 <br>
 
-**FindMyClient.org** is a free and open-source tool for discovering public business contact information.
-Built for developers, founders, and small teams who want a simple way to find business emails without expensive subscriptions or locked databases.
+**FindMyClient.org** is a community open-source tool and API platform for discovering public business contact information.
 
-Search any industry and location to discover and It pulls live data from business websites, so results stay fresh and relevant.
+It is built for developers, founders, and small teams who need a simple way to find business emails without expensive data providers or outdated databases.
+
+The system uses structured business data sources (such as Google Places) combined with AI processing to extract publicly available contact information in real time.
+
+⚡A hosted <a href="https://findmyclient.org/docs" target="_blank">API</a> version is available for fast, scalable usage.<br><br>
 
 <div align="center">
     <p>
