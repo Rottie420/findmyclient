@@ -40,7 +40,7 @@ It is built for developers, founders, and small teams who need a simple way to f
 
 The platform processes structured business data sources and publicly available web information to identify contact details in real time using AI-assisted extraction.
 
-⚡A hosted <a href="https://findmyclient.org/docs" target="_blank">API</a> version is available for fast, scalable usage.<br><br>
+⚡A hosted <a href="https://docs.findmyclient.org" target="_blank">API</a> version is available for fast, scalable usage.<br><br>
 
 <div align="center">
     <p>
