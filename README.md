@@ -11,10 +11,10 @@
 <div align="center">
 
 ### 🏷️ Topics
-`lead-generation` · `email-scraper` · `web-scraping` · `google-places-api` · `gemini-ai` · `python` · `flask` · `business-intelligence` · `cold-outreach` · `data-extraction`
+`lead-generation` · `developer-api` · `business-intelligence` · `public-business-data` · `ai-assisted` · `google-places-api` · `python` · `flask` · `sales-tools` · `contact-discovery`
 </div>
 <p align="center">
-  <b>Lead generation system for discovering public business contact emails using Google Places data and AI-assisted extraction.</b>
+  <b>Lead generation system for discovering publicly available business contact emails using structured business data sources and AI-assisted extraction.</b>
 </p>
 
 <br>
@@ -38,7 +38,7 @@ This tool:
 
 It is built for developers, founders, and small teams who need a simple way to find business emails without expensive data providers or outdated databases.
 
-The system uses structured business data sources (such as Google Places) combined with AI processing to extract publicly available contact information in real time.
+The platform processes structured business data sources and publicly available web information to identify contact details in real time using AI-assisted extraction.
 
 ⚡A hosted <a href="https://findmyclient.org/docs" target="_blank">API</a> version is available for fast, scalable usage.<br><br>
 
